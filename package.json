@@ -1,11 +1,11 @@
 {
-  "name": "polongdev",
+  "name": "hamblesdev",
   "version": "1.0.0",
   "description": "No description provided.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "wrangler deploy index.js --name polongdev --compatibility-date 2024-06-28 --compatibility-flags \"nodejs_compat\""
+    "start": "wrangler deploy index.js --name hamblesdev --compatibility-date 2024-06-28 --compatibility-flags \"nodejs_compat\""
   },
   "author": "Kenneth Perez",
   "license": "ISC",
